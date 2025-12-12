@@ -16,9 +16,9 @@ complemented by a background in <strong>IT infrastructure and cloud technologies
   [Arduino: Smart Plant Monitor and Watering System](https://github.com/matthewonye/Smart-Plant-Monitoring-and-Watering-System-Arduino-)
   <ul>
   <li>Arduino Uno digital and analog I/O</li>
-  <li>Sensor-based control logic (soil moisture, temperature, humidity)</li>
-  <li>Active-low relay control for pump actuation</li>
-  <li>Timing-based automation for watering cycles</li>
+  <li>Sensor based control logic (soil moisture, temperature, humidity)</li>
+  <li>Active low relay control for pump actuation</li>
+  <li>Timing based automation for watering cycles</li>
   <li>Hardware interfacing with external power components</li>
 </ul>
 
