@@ -8,7 +8,7 @@ complemented by a background in <strong>IT infrastructure and cloud technologies
 </p>
 
 
-<h2>👨‍💻 Computer Engineering Projects:</h2>
+<h2>👨‍💻 Computer Engineering/Embedded Systems Projects:</h2>
 
 - <h3>Arduino Projects</h3>
   
