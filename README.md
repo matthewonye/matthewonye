@@ -1,8 +1,8 @@
 <h1>Hi, I'm Matthew, a <a href="https://linkedin.com/in/Josh">Computer Engineer</a>☺</h1>
 
 <h2>👨‍💻 Computer Engineering Projects:</h2>
-
-
+- <b> Arduino Projects</b>
+- [Arduino: Smart Plant Monitor and Watering System](https://github.com/matthewonye/Smart-Plant-Monitoring-and-Watering-System-Arduino-)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
