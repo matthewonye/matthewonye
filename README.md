@@ -1,4 +1,5 @@
-<h1>Hi, I'm Matthew, a <a href="https://linkedin.com/in/Josh">Computer Engineering Student @ University Of Michigan-Dearborn</a>☺</h1>
+<h1>Hi, I'm Matthew,
+  a <a href="https://linkedin.com/in/Josh">Computer Engineering Student @ University Of Michigan-Dearborn</a>☺</h1>
 
 <h2>👨‍💻 Computer Engineering Projects:</h2>
 
