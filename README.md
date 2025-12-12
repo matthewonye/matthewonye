@@ -1,7 +1,12 @@
-<h1>Hi, I'm Matthew,
- # Hi, I'm Matthew  
-**Computer Engineering Student @ University of Michigan–Dearborn**
-a <a href="https://linkedin.com/in/Josh">Computer Engineering Student @ University Of Michigan-Dearborn</a>☺</h1>
+<h1>Hi, I'm Matthew</h1>
+<h3>Computer Engineering Student @ University of Michigan–Dearborn</h3>
+
+<p>
+I am a Computer Engineering student with hands-on experience in
+<strong>embedded systems, microcontroller-based control, and system-level problem solving</strong>,
+complemented by a background in <strong>IT infrastructure and cloud technologies</strong>.
+</p>
+
 
 <h2>👨‍💻 Computer Engineering Projects:</h2>
 
