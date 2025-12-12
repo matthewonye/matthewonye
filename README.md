@@ -10,8 +10,10 @@ complemented by a background in <strong>IT infrastructure and cloud technologies
 
 <h2>👨‍💻 Computer Engineering Projects:</h2>
 
-- <b>Arduino Projects</b>
-  - [Arduino: Smart Plant Monitor and Watering System](https://github.com/matthewonye/Smart-Plant-Monitoring-and-Watering-System-Arduino-)
+- <h3>Arduino Projects</h3>
+  
+
+  [Arduino: Smart Plant Monitor and Watering System](https://github.com/matthewonye/Smart-Plant-Monitoring-and-Watering-System-Arduino-)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
