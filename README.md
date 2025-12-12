@@ -3,7 +3,7 @@
 
 <p>
 I am a Computer Engineering student with hands-on experience in
-<strong>embedded systems, microcontroller-based control, and system-level problem solving</strong>,
+<strong>embedded systems, microcontroller-based control, and system level problem solving</strong>,
 complemented by a background in <strong>IT infrastructure and cloud technologies</strong>.
 </p>
 
