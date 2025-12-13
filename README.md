@@ -21,11 +21,11 @@ complemented by a background in <strong>IT infrastructure and cloud technologies
     - Hardware interfacing with external power components
 
   [Arduino: DIY Radar System](https://github.com/matthewonye/arduino-radar-system)
-   - Ultrasonic distance sensing using time-of-flight measurement
+   - Ultrasonic distance sensing using time of flight measurement
    - PWM-based servo motor control for angular scanning
-   - Real-time serial communication between Arduino and host application
-   - Radar-style visualization implemented in Processing 4 (Java)
-   - Integrated hardware–software debugging
+   - Real time serial communication between Arduino and host application
+   - Radar style visualization implemented in Processing 4 (Java)
+   - Integrated hardware/software debugging
    
 
 <h2>👨‍💻 Information Technology Projects:</h2>
