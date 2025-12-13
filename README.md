@@ -23,6 +23,17 @@ complemented by a background in <strong>IT infrastructure and cloud technologies
 </ul>
 
 
+[Arduino: DIY Radar System](https://github.com/matthewonye/Arduino-Radar-System/tree/main)
+  <ul>
+  <li>Arduino Uno digital and analog I/O</li>
+  <li>Sensor based control logic (soil moisture, temperature, humidity)</li>
+  <li>Active low relay control for pump actuation</li>
+  <li>Timing based automation for watering cycles</li>
+  <li>Hardware interfacing with external power components</li>
+</ul>
+
+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
