@@ -13,12 +13,12 @@ complemented by a background in <strong>IT infrastructure and cloud technologies
 - <h3>Arduino Projects</h3>
   
 
- [Arduino: Smart Plant Monitor and Watering System](https://github.com/matthewonye/Smart-Plant-Monitoring-and-Watering-System-Arduino-)
-- Arduino Uno digital and analog I/O
-- Sensor based control logic (soil moisture, temperature, humidity)
-- Active low relay control for pump actuation
-- Timing based automation for watering cycles
-- Hardware interfacing with external power components
+   [Arduino: Smart Plant Monitor and Watering System](https://github.com/matthewonye/Smart-Plant-Monitoring-and-Watering-System-Arduino-)
+    - Arduino Uno digital and analog I/O
+    - Sensor based control logic (soil moisture, temperature, humidity)
+    - Active low relay control for pump actuation
+    - Timing based automation for watering cycles
+    - Hardware interfacing with external power components
 
 [Arduino: DIY Radar System](https://github.com/matthewonye/arduino-radar-system)
 - Ultrasonic distance sensing using time-of-flight measurement
