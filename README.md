@@ -20,7 +20,7 @@ complemented by a background in <strong>IT infrastructure and cloud technologies
     - Timing based automation for watering cycles
     - Hardware interfacing with external power components
 
-> [Arduino: DIY Radar System](https://github.com/matthewonye/arduino-radar-system)
+  [Arduino: DIY Radar System](https://github.com/matthewonye/arduino-radar-system)
 > - Ultrasonic distance sensing using time-of-flight measurement
 > - PWM-based servo motor control for angular scanning
 > - Real-time serial communication between Arduino and host application
