@@ -23,7 +23,8 @@ complemented by a background in <strong>IT infrastructure and cloud technologies
 </ul>
 
 
- [Arduino: DIY Radar System](https://github.com/matthewonye/Arduino-Radar-System/tree/main)
+
+   [Arduino: DIY Radar System](https://github.com/matthewonye/Arduino-Radar-System/tree/main)
   <ul>
   <li>Arduino Uno digital and analog I/O</li>
   <li>Sensor based control logic (soil moisture, temperature, humidity)</li>
