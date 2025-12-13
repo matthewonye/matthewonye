@@ -24,12 +24,12 @@ complemented by a background in <strong>IT infrastructure and cloud technologies
 
   <a href="https://github.com/matthewonye/arduino-radar-system">Arduino: DIY Radar System</a>
   <ul>
-    <li>Ultrasonic distance sensing using time-of-flight measurement</li>
-    <li>PWM-based servo motor control for angular scanning</li>
-    <li>Real-time serial communication between Arduino and host application</li>
-    <li>Radar-style visualization implemented in Processing 4 (Java)</li>
-    <li>Integrated hardware–software debugging under time constraints</li>
-  </ul>
+  <li>Ultrasonic distance sensing using time-of-flight measurement</li>
+  <li>PWM-based servo motor control for angular scanning</li>
+  <li>Real-time serial communication between Arduino and host application</li>
+  <li>Radar-style visualization implemented in Processing 4 (Java)</li>
+  <li>Integrated hardware–software debugging under time constraints</li>
+ </ul>
    
 
 <h2>👨‍💻 Information Technology Projects:</h2>
