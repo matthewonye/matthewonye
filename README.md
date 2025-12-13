@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthew</h1>
+<h1>Hi, I'm Matthew Onye</h1>
 <h3>Computer Engineering Student @ University of Michigan–Dearborn</h3>
 
 <p>
